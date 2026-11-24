@@ -1,0 +1,12 @@
+.brand i,
+.hero h1,
+.prompt,
+.screen-title,
+.how h2,
+.final h1,
+.big-letter,
+.reveal blockquote,
+.score-callout strong {
+  font-family: "Instrument Serif", Georgia, "Times New Roman", serif;
+  letter-spacing: -0.025em;
+}
